@@ -1,0 +1,16 @@
+# Ignore les environnements virtuels
+env/
+venv/
+.venv/
+
+# Ignore les fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore les gros fichiers binaires
+*.dll
+*.so
+*.dylib
+*.exe
