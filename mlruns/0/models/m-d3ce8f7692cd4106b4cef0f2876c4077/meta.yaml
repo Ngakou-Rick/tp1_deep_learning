@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Rick%20Varnel/Desktop/TP1_ML_5GI/tp1_dl/mlruns/0/models/m-d3ce8f7692cd4106b4cef0f2876c4077/artifacts
+creation_timestamp: 1760032967651
+experiment_id: '0'
+last_updated_timestamp: 1760032985102
+model_id: m-d3ce8f7692cd4106b4cef0f2876c4077
+model_type: null
+name: mnist-model
+source_run_id: 50cec9b91dae434080b755e75204fb61
+status: 2
+status_message: null
